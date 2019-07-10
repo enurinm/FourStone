@@ -7,3 +7,5 @@ connect four game : Team project with schoolmates
   - 김건수
   
 # File Description
+
+Reference: AI_Team4(소스코드), Interface(인터페이스).txt
